@@ -1,4 +1,6 @@
-### Hi there 👋
+- 🌱 Open source fancier
+- 🏠 Homepage at [https://xiaobaiai.net](https://xiaobaiai.net)
+- 💬 Wechat: XEthanm
 
 <!--
 **yicm/yicm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
