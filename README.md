@@ -4,7 +4,7 @@
 
 - 🌱 Open source fancier
 - 🏠 Homepage at [https://xiaobaiai.net](https://xiaobaiai.net)
-- 💬 Wechat: XEthanm
+- 💬 Wechat: [XEthanm](https://raw.githubusercontent.com/yicm/yicm/master/XEthanm_344.jpg)
 - 📫 WeChat Subscription: [别打名名](https://raw.githubusercontent.com/yicm/yicm/master/biedamingming.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yicm&hide=html&layout=compact)](https://github.com/yicm)
