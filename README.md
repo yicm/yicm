@@ -1,6 +1,13 @@
+[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=yicm&count_private=true&show_icons=true&theme=radical)](https://github.com/yicm)
+
+"博观而约取,厚积而薄发"
+
 - 🌱 Open source fancier
 - 🏠 Homepage at [https://xiaobaiai.net](https://xiaobaiai.net)
 - 💬 Wechat: XEthanm
+- 📫 WeChat Subscription: 别打名名
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yicm&hide=html&layout=compact)](https://github.com/yicm)
 
 <!--
 **yicm/yicm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
