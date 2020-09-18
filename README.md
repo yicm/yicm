@@ -1,4 +1,4 @@
-[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=yicm&count_private=true&show_icons=true&theme=radical)](https://github.com/yicm)
+[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=yicm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 "博观而约取,厚积而薄发"
 
