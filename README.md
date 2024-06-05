@@ -3,7 +3,7 @@
 "博观而约取,厚积而薄发"
 
 - 🌱 Open source fancier
-- 🏠 Homepage at [https://xibaiai.gitee.io](https://xibaiai.gitee.io)
+- 🏠 Homepage at [https://yicm.github.io/blog](https://yicm.github.io/blog)
 - 💬 Wechat: [XEthanm](https://raw.githubusercontent.com/yicm/yicm/master/XEthanm_344.jpg)
 - 📫 WeChat Subscription: [别打名名](https://raw.githubusercontent.com/yicm/yicm/master/biedamingming.png)
 
